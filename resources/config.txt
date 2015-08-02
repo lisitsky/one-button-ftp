@@ -1,0 +1,4 @@
+;!@Install@!UTF-8!
+Title="FotoWoman"
+RunProgram="FotoWoman\\pyftp1.exe"
+;!@InstallEnd@!
