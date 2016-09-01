@@ -12,6 +12,9 @@ The only exception - files cannot have similar names.
 * The whole application is packed into 1 file - PyFTP.exe. Does not require installation and could be run on different computers.
 * Sometimes depending on system settins you cannot run application as single file. In this case you can download it as packed or unpacked folder and run from it.
 
+
+---
+
 #Удобное десктопное приложение для загрузки фотографий в фотобанк
 
 
