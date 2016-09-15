@@ -22,10 +22,13 @@ The only exception - files cannot have similar names.
 * запустить приложение
 * ввести свой логин и пароль для доступа в фотобанк
 * на экране будут показаны последние альбомы в вашем аккаунте
- ![Start screen](resources/screen_start_rus.png)
+
+    ![Start screen](resources/screen_start_rus.png)
 
 * чтобы загрузить (или догрузить) файлы в нужный альбом, просто перетащите их на нужную кнопку. Перетаскивать можно как вам удобнее: поштучно, группой, папкой с подпапками и т.п. - программа сама загрузит как нужно.
- ![Start screen](resources/screen_drag_rus.png)
+
+    ![Start screen](resources/screen_drag_rus.png)
+
 
 Единственное ограничение - в папках не должно быть одинаковых имен файлов.
 
