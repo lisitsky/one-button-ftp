@@ -1,4 +1,4 @@
-#Simple desktop FTP upload application
+# Simple desktop FTP upload application
 
 ### How to use
 * Launch
